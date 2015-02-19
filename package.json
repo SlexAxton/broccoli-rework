@@ -29,15 +29,15 @@
     "stylesheet"
   ],
   "dependencies": {
-    "broccoli-filter": "^0.1.6",
-    "object-assign": "^1.0.0",
-    "rework": "^1.0.0"
+    "broccoli-filter": "^0.1.11",
+    "object-assign": "^2.0.0",
+    "rework": "^1.0.1"
   },
   "devDependencies": {
     "ava": "^0.0.4",
-    "broccoli": "^0.13.2",
+    "broccoli": "^0.13.3",
     "broccoli-cli": "^0.0.1",
     "rework-plugin-colors": "^1.0.3",
-    "rimraf": "^2.2.6"
+    "rimraf": "^2.2.8"
   }
 }
